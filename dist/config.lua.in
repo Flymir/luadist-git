@@ -25,6 +25,7 @@ cache_file     = ""
 
 -- Repositories ------------------------------------------------------
 repos = {
+    "git://github.com/Flymir/repository.git",
     "git://github.com/LuaDist/Repository.git",
 }
 
